@@ -1,7 +1,7 @@
 {
   "users": {
     "6285172081982@s.whatsapp.net": {
-      "exp": 20,
+      "exp": 25,
       "diamond": 10,
       "lastclaim": 0,
       "registered": false,
@@ -18,7 +18,7 @@
       "chatbot": false
     },
     "6282144323683@s.whatsapp.net": {
-      "exp": 106,
+      "exp": 182,
       "diamond": 10,
       "lastclaim": 0,
       "registered": false,
@@ -89,16 +89,28 @@
       "lastSuccess": 1695768933481
     },
     "dl-spotifysearch.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1695769376929,
-      "lastSuccess": 1695769376929
+      "total": 3,
+      "success": 3,
+      "last": 1695770335148,
+      "lastSuccess": 1695770335148
     },
     "dl-spotify.js": {
       "total": 2,
       "success": 2,
       "last": 1695769427272,
       "lastSuccess": 1695769427272
+    },
+    "dl-yts.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1695770347396,
+      "lastSuccess": 1695770347396
+    },
+    "dl-play2.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1695770367482,
+      "lastSuccess": 1695770367482
     }
   },
   "msgs": {},
